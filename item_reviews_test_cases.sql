@@ -1,0 +1,3 @@
+--exec item_review_delete(review_id);
+--exec item_review_update(review_id, 'review_desc', review_rating);
+--exec item_review_insert(customer_id, item_id, 'review_desc', review_rating);
