@@ -1,4 +1,5 @@
 **Business Problem & Solution**
+
 In the retail industry, it is vital that companies are able to keep up with the supply and
 demand on products they are offering. Some companies may choose to keep track of this supply
 and demand through physical books and paperwork, and over time this can result in insufficient
